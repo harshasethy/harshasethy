@@ -38,5 +38,5 @@ With over a decade of experience, I specialize in building reliable, scalable, a
 
 ### 📫 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/harshakatakamsethy)
+- [LinkedIn](https://www.linkedin.com/in/harsha-k-85b957104/)
 - [GitHub](https://github.com/harshasethy)
