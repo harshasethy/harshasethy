@@ -33,8 +33,7 @@ With over a decade of experience, I specialize in building reliable, scalable, a
 - Led cloud architecture automation at **AT&T**, improving system reliability and visibility
 - Scaled ML infrastructure globally at **SiFive** using Terraform, Ansible, and AWS
 - Drove SRE practices at **BlockFi**, defining SLOs and incident response strategies
-- Migrated 48+ apps to Kubernetes at **Walmart**, improving resilience and reducing toil
-
+- Owned a year-long technical stratergy to migrate 48+ apps to Kubernetes at **Walmart**, improving resilience and reducing toil
 ---
 
 ### 📜 Certifications
