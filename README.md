@@ -17,16 +17,6 @@ With over a decade of experience, I specialize in building reliable, scalable, a
 
 ---
 
-### 📂 Featured Repositories
-
-| Repo           | Description                                                               |
-|----------------|---------------------------------------------------------------------------|
-| [`infra`](#)   | Infrastructure as Code for provisioning cloud-native systems on AWS       |
-| [`observability`](#) | Monitoring and alerting stack with Prometheus, Grafana, and Datadog |
-| [`mlops`](#)   | Integrating ML workflows with production systems 
-| [`ci-cd`](#)   | CI/CD pipelines and container automation using Jenkins & GitHub Actions   |
-
----
 
 ### 📈 Recent Highlights
 
