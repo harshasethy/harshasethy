@@ -32,7 +32,7 @@ With over a decade of experience, I specialize in building reliable, scalable, a
 - HashiCorp Certified: Terraform Associate
 - Certified Kubernetes Application Developer (CKAD)
 - Linux Foundation Certified Systems Admin (LFCS)
-- Programming in GO - UC Irvine
+- Programming in Google GO - UC Irvine
 
 ---
 
