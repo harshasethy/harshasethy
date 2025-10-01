@@ -33,6 +33,7 @@ With over a decade of experience, I specialize in building reliable, scalable, a
 - Certified Kubernetes Application Developer (CKAD)
 - Linux Foundation Certified Systems Admin (LFCS)
 - Programming in Google GO - UC Irvine
+- Certified in Cybersecurity - ISC2
 
 ---
 
