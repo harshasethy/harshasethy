@@ -9,7 +9,7 @@ With over a decade of experience, I specialize in building reliable, scalable, a
 ### 🛠 Core Expertise
 
 - **Infrastructure as Code** – Terraform, Ansible, Puppet
-- **Cloud & Platforms** – AWS, Kubernetes (EKS), Docker, VMware
+- **Cloud & Platforms** – AWS, Kubernetes (EKS and On Prem), AZURE, Docker, VMware, openshift
 - **Observability** – Prometheus, Grafana, Datadog, Splunk
 - **CI/CD & DevOps** – Jenkins, GitHub Actions, JFrog, Nexus
 - **Security & Compliance** – SOC2, SOX, HIPAA
