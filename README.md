@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Harsha Katakamsethy
 
-**Cloud & DevOps Engineer | Infra Advocate | Developer-Centric Technologist**
+**Platform Engineer | DevOps & SRE Leader | Infra & Developer Platform Advocate | Kubernetes | Terraform | AWS**
 
 With over a decade of experience, I specialize in building reliable, scalable, and secure cloud infrastructure. My work spans SRE leadership, distributed systems, observability, and automation using tools like Terraform, Ansible, Kubernetes, and Python.
 
